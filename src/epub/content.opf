@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/friedrich-nietzsche/beyond-good-and-evil/helen-zimmern</dc:identifier>
+		<dc:date>2014-05-25T00:00:00Z</dc:date>
+		<meta property="dcterms:modified">2015-02-05T06:16:21Z</meta>
+		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
+		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
+		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
+		<link href="epub/text/unlicense.xhtml" rel="cc:license"/>
+		<link href="epub/onix.xml" rel="onix-record"/>
+		<dc:title id="title">Beyond Good and Evil</dc:title>
+		<meta property="file-as" refines="#title">Beyond Good and Evil</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">Prelude to a Philosophy of the Future</dc:title>
+		<meta property="file-as" refines="#subtitle">Prelude to a Philosophy of the Future</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Beyond Good and Evil: Prelude to a Philosophy of the Future</dc:title>
+		<meta property="file-as" refines="#fulltitle">Beyond Good and Evil</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<dc:subject id="subject-1">Ethics</dc:subject>
+		<dc:subject id="subject-2">Philosophy, German </dc:subject>
+		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/4363</meta>
+		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/4363</meta>
+		<meta property="se:subject">Philosophy</meta>
+		<dc:description id="description">Nietzsche's philosophical treatise on the ambiguity of traditional morality.</dc:description>
+		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;In &lt;i&gt;Beyond Good and Evil&lt;/i&gt;, Nietzsche accuses past philosophers of lacking critical sense and blindly accepting dogmatic premises in their consideration of morality. Specifically, he accuses them of founding grand metaphysical systems upon the faith that the good man is the opposite of the evil man, rather than just a different expression of the same basic impulses that find more direct expression in the evil man. The work moves into the realm “beyond good and evil” in the sense of leaving behind the traditional morality which Nietzsche subjects to a destructive critique in favour of what he regards as an affirmative approach that fearlessly confronts the perspectival nature of knowledge and the perilous condition of the modern individual.&lt;/p&gt;
+		</meta>
+		<meta property="meta-auth" refines="#long-description">https://en.wikipedia.org/wiki/Beyond_Good_and_Evil</meta>
+		<dc:language>en-GB</dc:language>
+		<dc:source>http://www.gutenberg.org/ebooks/4363</dc:source>
+		<dc:source>https://archive.org/stream/beyondgoodandevi00nietuoft</dc:source>
+		<meta property="se:word-count">63621</meta>
+		<meta property="se:url.wikipedia">https://en.wikipedia.org/wiki/Beyond_Good_and_Evil</meta>
+		<dc:creator id="author">Friedrich Nietzsche</dc:creator>
+		<meta property="file-as" refines="#author">Nietzsche, Friedrich</meta>
+		<meta property="se:name.person.full-name" refines="#author">Friedrich Wilhelm Nietzsche</meta>
+		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Friedrich_Nietzsche</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="translator-1">Helen Zimmern</dc:contributor>
+		<meta property="file-as" refines="#translator-1">Zimmern, Helen</meta>
+		<meta property="se:url.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Helen_Zimmern</meta>
+		<meta property="display-seq" refines="#translator-1">1</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-2">L. A. Magnus</dc:contributor>
+		<meta property="file-as" refines="#translator-2">Magnus, L. A.</meta>
+		<meta property="display-seq" refines="#translator-2">2</meta>
+		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
+		<dc:contributor id="artist">Hieronymus Bosch</dc:contributor>
+		<meta property="file-as" refines="#artist">Bosch, Hieronymus</meta>
+		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Hieronymus_Bosch</meta>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">John Mamoun</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Mamoun, John</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">Charles Franks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Franks, Charles</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">http://http://www.pgdp.net</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">typ</meta>
+	</metadata>
+	<manifest>
+		<item href="onix.xml" id="onix.xml" media-type="application/xml"/>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item href="css/core.css" id="core.css" media-type="text/css"/>
+		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/from-the-heights.xhtml" id="from-the-heights.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/part-1.xhtml" id="part-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/part-2.xhtml" id="part-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/part-3.xhtml" id="part-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/part-4.xhtml" id="part-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/part-5.xhtml" id="part-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/part-6.xhtml" id="part-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/part-7.xhtml" id="part-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/part-8.xhtml" id="part-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/part-9.xhtml" id="part-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/unlicense.xhtml" id="unlicense.xhtml" media-type="application/xhtml+xml"/>
+	</manifest>
+	<spine>
+		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="preface.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="part-1.xhtml"/>
+		<itemref idref="part-2.xhtml"/>
+		<itemref idref="part-3.xhtml"/>
+		<itemref idref="part-4.xhtml"/>
+		<itemref idref="part-5.xhtml"/>
+		<itemref idref="part-6.xhtml"/>
+		<itemref idref="part-7.xhtml"/>
+		<itemref idref="part-8.xhtml"/>
+		<itemref idref="part-9.xhtml"/>
+		<itemref idref="from-the-heights.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
+		<itemref idref="colophon.xhtml"/>
+		<itemref idref="unlicense.xhtml"/>
+	</spine>
+</package>
