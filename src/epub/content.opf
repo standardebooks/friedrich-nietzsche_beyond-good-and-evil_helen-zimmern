@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/friedrich-nietzsche/beyond-good-and-evil/helen-zimmern</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-02-05T06:16:21Z</meta>
+		<meta property="dcterms:modified">2015-01-24T06:19:56Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -33,9 +33,9 @@
 		<dc:description id="description">Nietzsche's philosophical treatise on the ambiguity of traditional morality.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In &lt;i&gt;Beyond Good and Evil&lt;/i&gt;, Nietzsche accuses past philosophers of lacking critical sense and blindly accepting dogmatic premises in their consideration of morality. Specifically, he accuses them of founding grand metaphysical systems upon the faith that the good man is the opposite of the evil man, rather than just a different expression of the same basic impulses that find more direct expression in the evil man. The work moves into the realm “beyond good and evil” in the sense of leaving behind the traditional morality which Nietzsche subjects to a destructive critique in favour of what he regards as an affirmative approach that fearlessly confronts the perspectival nature of knowledge and the perilous condition of the modern individual.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Beyond Good and Evil&lt;/i&gt;, one of Nietzsche&amp;rsquo;s four &amp;ldquo;late period&amp;rdquo; works, is a philosophical treatise organized into nine parts and 296 short individual sections.  In it he explores the concept of morality as taken for granted by contemporary philosophers, and whether &amp;ldquo;good&amp;rdquo; and &amp;ldquo;evil&amp;rdquo; should be considered just two sides of the same coin.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://en.wikipedia.org/wiki/Beyond_Good_and_Evil</meta>
+		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/4363</dc:source>
 		<dc:source>https://archive.org/stream/beyondgoodandevi00nietuoft</dc:source>
