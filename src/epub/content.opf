@@ -45,11 +45,11 @@
 		<dc:creator id="author">Friedrich Nietzsche</dc:creator>
 		<meta property="file-as" refines="#author">Nietzsche, Friedrich</meta>
 		<meta property="se:name.person.full-name" refines="#author">Friedrich Wilhelm Nietzsche</meta>
-		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Friedrich_Nietzsche</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Friedrich_Nietzsche</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator-1">Helen Zimmern</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Zimmern, Helen</meta>
-		<meta property="se:url.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Helen_Zimmern</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Helen_Zimmern</meta>
 		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">L. A. Magnus</dc:contributor>
@@ -58,7 +58,7 @@
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Hieronymus Bosch</dc:contributor>
 		<meta property="file-as" refines="#artist">Bosch, Hieronymus</meta>
-		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Hieronymus_Bosch</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Hieronymus_Bosch</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">John Mamoun</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Mamoun, John</meta>
