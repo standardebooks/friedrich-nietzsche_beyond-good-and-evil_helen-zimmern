@@ -5,6 +5,10 @@ abbr.degree{
 	text-transform: all-small-caps;
 }
 
+abbr.name{
+	white-space: nowrap;
+}
+
 footer{
 	text-align: right;
 	margin: 1em;
