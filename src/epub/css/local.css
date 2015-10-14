@@ -38,11 +38,13 @@ footer{
 }
 
 p span.i1{
-	text-indent: 0;
+	text-indent: -1em;
+	padding-left: 2em;
 }
 
 p span.i2{
-	text-indent: 1em;
+	text-indent: -1em;
+	padding-left: 3em;
 }
 
 span[epub|type~="subtitle"]{
