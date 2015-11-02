@@ -1,10 +1,6 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-abbr.degree{
-	text-transform: all-small-caps;
-}
-
 abbr.name{
 	white-space: nowrap;
 }
