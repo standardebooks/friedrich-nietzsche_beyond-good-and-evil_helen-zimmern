@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/friedrich-nietzsche/beyond-good-and-evil/helen-zimmern</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2016-01-11T22:57:11Z</meta>
+		<meta property="dcterms:modified">2016-01-12T00:38:16Z</meta>
 		<dc:rights>Public domain; see the Unlicense included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -30,7 +30,7 @@
 		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/4363</meta>
 		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/4363</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">Nietzsche's philosophical treatise on the ambiguity of traditional morality.</dc:description>
+		<dc:description id="description">Nietzsche’s philosophical treatise on the ambiguity of traditional morality.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Beyond Good and Evil&lt;/i&gt;, one of Nietzsche&amp;rsquo;s four &amp;ldquo;late period&amp;rdquo; works, is a philosophical treatise organized into nine parts and 296 short individual sections.  In it he explores the concept of morality as taken for granted by contemporary philosophers, and whether &amp;ldquo;good&amp;rdquo; and &amp;ldquo;evil&amp;rdquo; should be considered just two sides of the same coin.&lt;/p&gt;
