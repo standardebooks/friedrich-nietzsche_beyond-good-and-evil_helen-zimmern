@@ -47,14 +47,14 @@
 		<meta property="file-as" refines="#author">Nietzsche, Friedrich</meta>
 		<meta property="se:name.person.full-name" refines="#author">Friedrich Wilhelm Nietzsche</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Friedrich_Nietzsche</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79021132.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79021132</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator-1">Helen Zimmern</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Zimmern, Helen</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Helen_Zimmern</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/no94041716.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/no94041716</meta>
 		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">L. A. Magnus</dc:contributor>
@@ -64,7 +64,7 @@
 		<dc:contributor id="artist">Hieronymus Bosch</dc:contributor>
 		<meta property="file-as" refines="#artist">Bosch, Hieronymus</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Hieronymus_Bosch</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79004071.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79004071</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">John Mamoun</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Mamoun, John</meta>
