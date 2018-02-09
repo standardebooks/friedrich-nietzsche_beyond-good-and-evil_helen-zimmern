@@ -52,3 +52,9 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	font-size: .75em;
 	font-weight: normal;
 }
+
+[epub|type~="z3998:poem"] header p{
+	margin: 1em;
+	margin-top: 3em;
+	text-align: center;
+}
