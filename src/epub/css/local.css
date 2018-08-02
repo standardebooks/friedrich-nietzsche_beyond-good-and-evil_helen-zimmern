@@ -1,10 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-abbr.name{
-	white-space: nowrap;
-}
-
 footer{
 	text-align: right;
 	margin: 1em;
@@ -54,7 +50,7 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 }
 
 [epub|type~="z3998:poem"] header p{
-	margin: 1em;
+	margin-bottom: 1em;
 	margin-top: 3em;
 	text-align: center;
 }
