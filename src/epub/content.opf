@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/friedrich-nietzsche/beyond-good-and-evil/helen-zimmern</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2018-09-14T23:19:20Z</meta>
-		<meta property="se:revision-number">80</meta>
+		<meta property="dcterms:modified">2019-01-20T17:53:21Z</meta>
+		<meta property="se:revision-number">81</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -71,7 +71,7 @@
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">L. A. Magnus</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Magnus, L. A.</meta>
-		<meta property="display-seq" refines="#translator-2">2</meta>
+		<!-- No display-seq value to prevent him from being listed as a primary translator -->
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Hieronymus Bosch</dc:contributor>
 		<meta property="file-as" refines="#artist">Bosch, Hieronymus</meta>
