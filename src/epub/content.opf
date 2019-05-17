@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Beyond Good and Evil</dc:title>
 		<meta property="file-as" refines="#title">Beyond Good and Evil</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -38,15 +38,15 @@
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Ethics</dc:subject>
 		<dc:subject id="subject-2">Philosophy, German</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/4363</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/4363</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85045096</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85100918</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Nietzsche’s philosophical treatise on the ambiguity of traditional morality.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Beyond Good and Evil&lt;/i&gt;, one of Nietzsche’s four “late period” works, is a philosophical treatise organized into nine parts and 296 short individual sections. In it he explores the concept of morality as taken for granted by contemporary philosophers, and whether “good” and “evil” should be considered just two sides of the same coin.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4363</dc:source>
 		<dc:source>https://archive.org/details/beyondgoodandevi00nietuoft</dc:source>
