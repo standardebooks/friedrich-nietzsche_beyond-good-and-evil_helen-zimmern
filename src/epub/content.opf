@@ -45,7 +45,7 @@
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Nietzsche’s philosophical treatise on the ambiguity of traditional morality.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Beyond Good and Evil&lt;/i&gt;, one of Nietzsche’s four “late period” works, is a philosophical treatise organized into nine parts and 296 short individual sections. In it he explores the concept of morality as taken for granted by contemporary philosophers, and whether “good” and “evil” should be considered just two sides of the same coin.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Beyond Good and Evil&lt;/i&gt;, one of &lt;a href="https://standardebooks.org/ebooks/friedrich-nietzsche"&gt;Nietzsche’s&lt;/a&gt; four “late period” works, is a philosophical treatise organized into nine parts and 296 short individual sections. In it he explores the concept of morality as taken for granted by contemporary philosophers, and whether “good” and “evil” should be considered just two sides of the same coin.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4363</dc:source>
