@@ -38,12 +38,6 @@ p span.i2{
 	padding-left: 3em;
 }
 
-section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
-	display: block;
-	font-size: .75em;
-	font-weight: normal;
-}
-
 [epub|type~="z3998:poem"] header p{
 	margin-bottom: 1em;
 	margin-top: 3em;
