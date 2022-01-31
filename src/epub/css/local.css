@@ -2,8 +2,8 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 footer{
-	text-align: right;
 	margin: 1em;
+	text-align: right;
 }
 
 [epub|type~="z3998:verse"] p,
