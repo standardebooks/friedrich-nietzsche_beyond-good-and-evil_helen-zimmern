@@ -67,11 +67,11 @@
 		<meta property="file-as" refines="#translator-1">Zimmern, Helen</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Helen_Zimmern</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/no94041716</meta>
-		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">L. A. Magnus</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Magnus, L. A.</meta>
-		<!-- No display-seq value to prevent him from being listed as a primary translator -->
+		<!-- @display-seq=0 to prevent him from being listed as a primary translator -->
+		<meta property="display-seq" refines="#translator-2">0</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Hieronymus Bosch</dc:contributor>
 		<meta property="file-as" refines="#artist">Bosch, Hieronymus</meta>
