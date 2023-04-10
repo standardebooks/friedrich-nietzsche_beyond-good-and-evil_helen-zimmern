@@ -1,5 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
 
 footer{
 	margin: 1em;
@@ -42,4 +43,8 @@ p span.i2{
 	margin-bottom: 1em;
 	margin-top: 3em;
 	text-align: center;
+}
+
+blockquote[xml|lang]{
+	font-style: italic;
 }
