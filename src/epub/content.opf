@@ -51,8 +51,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4363</dc:source>
 		<dc:source>https://archive.org/details/beyondgoodandevi00nietuoft</dc:source>
-		<meta property="se:word-count">63623</meta>
-		<meta property="se:reading-ease.flesch">34.83</meta>
+		<meta property="se:word-count">63625</meta>
+		<meta property="se:reading-ease.flesch">35.14</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Beyond_Good_and_Evil</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/friedrich-nietzsche_beyond-good-and-evil_helen-zimmern</meta>
 		<dc:creator id="author">Friedrich Nietzsche</dc:creator>
