@@ -14,7 +14,7 @@
 	</file>
 	<file path="part-9.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-026</code>
 			<reason>Matched text `For and Against` is not a typo.</reason>
 		</ignore>
 	</file>
