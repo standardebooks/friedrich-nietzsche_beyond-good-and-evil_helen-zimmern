@@ -6,6 +6,12 @@
 			<reason>Matched text is not actually a complete clause.</reason>
 		</ignore>
 	</file>
+	<file path="part-4.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>`se titlecase` is wrong with this title.</reason>
+		</ignore>
+	</file>
 	<file path="part-7.xhtml">
 		<ignore>
 			<code>s-023</code>
