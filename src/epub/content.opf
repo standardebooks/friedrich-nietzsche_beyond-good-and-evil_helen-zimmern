@@ -62,9 +62,9 @@
 		<meta property="se:name.person.full-name" refines="#author">Friedrich Wilhelm Nietzsche</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Friedrich_Nietzsche</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79021132</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator-1">Helen Zimmern</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Zimmern, Helen</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Helen_Zimmern</meta>
