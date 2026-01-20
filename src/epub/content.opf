@@ -53,7 +53,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/4363</dc:source>
 		<dc:source>https://archive.org/details/beyondgoodandevi00nietuoft</dc:source>
 		<meta property="se:production-notes">Removed xml:lang="ru-Latn" tag from ‘nihiline’ in chapter-6-208. ‘Нигилизм’ is ‘nihilism’ in Russian, but 'нигилин' is not a Russian word, as it would need to be for this tag to be appropriate. ‘Nihilin’ is Nietzsche’s German and it’s another coinage of his, a play on Latin nihil + German Anilin (English aniline), glossed as ‘a poisonous chemical’ in the newest OWC edition. In an English translation, then, ‘nihiline’ is just a neologism, not a transliteration, so should be just `i` in accordance with 8.2.10.1</meta>
-		<meta property="se:word-count">63625</meta>
+		<meta property="se:word-count">63482</meta>
 		<meta property="se:reading-ease.flesch">35.54</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Beyond_Good_and_Evil</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/friedrich-nietzsche_beyond-good-and-evil_helen-zimmern</meta>
