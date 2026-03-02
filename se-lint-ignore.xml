@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="part-1.xhtml">
-		<ignore>
-			<code>t-019</code>
+		<ignore code="t-019">
 			<reason>Matched text is not actually a complete clause.</reason>
 		</ignore>
 	</file>
 	<file path="part-4.xhtml">
-		<ignore>
-			<code>s-023</code>
+		<ignore code="s-023">
 			<reason>`se titlecase` is wrong with this title.</reason>
 		</ignore>
 	</file>
 	<file path="part-7.xhtml">
-		<ignore>
-			<code>s-023</code>
+		<ignore code="s-023">
 			<reason>`se titlecase` is wrong with this title.</reason>
 		</ignore>
 	</file>
 	<file path="part-9.xhtml">
-		<ignore>
-			<code>y-026</code>
+		<ignore code="y-026">
 			<reason>Matched text `For and Against` is not a typo.</reason>
 		</ignore>
 	</file>
