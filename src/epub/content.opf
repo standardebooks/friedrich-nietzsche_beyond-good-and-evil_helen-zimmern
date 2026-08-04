@@ -46,7 +46,7 @@
 		<meta property="schema:genre">Philosophy</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>Nietzsche’s philosophical treatise on the ambiguity of traditional morality.</dc:abstract>
+		<meta property="schema:abstract">Nietzsche’s philosophical treatise on the ambiguity of traditional morality.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Beyond Good and Evil&lt;/i&gt;, one of &lt;a href="https://standardebooks.org/ebooks/friedrich-nietzsche"&gt;Nietzsche’s&lt;/a&gt; four “late period” works, is a philosophical treatise organized into nine parts and 296 short individual sections. In it he explores the concept of morality as taken for granted by contemporary philosophers, and whether “good” and “evil” should be considered just two sides of the same coin.&lt;/p&gt;
 		</dc:description>
