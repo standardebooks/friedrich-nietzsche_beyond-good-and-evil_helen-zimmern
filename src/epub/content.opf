@@ -76,6 +76,7 @@
 		<meta property="file-as" refines="#translator-2">Magnus, L. A.</meta>
 		<!-- @display-seq=0 to prevent him from being listed as a primary translator -->
 		<meta property="display-seq" refines="#translator-2">0</meta>
+		<link href="https://en.wikipedia.org/wiki/Leonard_Arthur_Magnus" refines="#translator-2" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Hieronymus Bosch</dc:contributor>
 		<meta property="file-as" refines="#artist">Bosch, Hieronymus</meta>
